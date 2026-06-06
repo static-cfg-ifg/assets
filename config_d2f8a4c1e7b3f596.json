@@ -2,7 +2,7 @@
   "min_version": "1.4.0",
   "store_url_android": "https://play.google.com/store/apps/details?id=com.ifeelgood.app",
   "store_url_ios": "https://apps.apple.com/app/ifeelgood/id0000000000",
-  "env_override": false,
+  "env_override": true,
   "force_restart_key": "2026-06-03T00:01200Z",
   "supabase_url": "https://jodkpsefqugxmpmotqvl.supabase.co",
   "supabase_anon_key": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImpvZGtwc2VmcXVneG1wbW90cXZsIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzk1NzQwNjksImV4cCI6MjA5NTE1MDA2OX0.xvLvHIwMDnCOOvlQf7BaswrPkBSI_vVAKadPBLd0qYs"
